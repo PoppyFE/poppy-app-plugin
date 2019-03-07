@@ -1,0 +1,13 @@
+{
+  "name": "poppy-app-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ValueFE/poppy-app-plugin.git",
+  "author": "alex zhang <gzane24@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "vue": "^2.6.8",
+    "vue-router": "^3.0.2"
+  }
+}
